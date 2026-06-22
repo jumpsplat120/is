@@ -1,3 +1,5 @@
+--TODO: Add more things to check. Other popular class libraries, and so on.
+
 local datatypes = {
     ["nil"]      = true,
     ["table"]    = true,
